@@ -22,3 +22,5 @@ contract('SimpleSmartContract', accounts =>{
         assert.equal(value, 'new_name');
     }); 
 });
+
+
